@@ -1,0 +1,8 @@
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.RazorAssemblyInfo.cache
+C:\Users\Jakub\Desktop\TinderDlaPsow\dogder_backend\Adoptooj_backend\Adoptooj_backend\obj\Debug\net7.0\Adoptooj_backend.RazorAssemblyInfo.cs
