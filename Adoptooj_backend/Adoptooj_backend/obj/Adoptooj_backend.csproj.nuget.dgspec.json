@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jakub\\Desktop\\TinderDlaPsow\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj": {}
+    "C:\\Users\\kubap\\OneDrive\\Pulpit\\Adoptooj\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jakub\\Desktop\\TinderDlaPsow\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj": {
+    "C:\\Users\\kubap\\OneDrive\\Pulpit\\Adoptooj\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jakub\\Desktop\\TinderDlaPsow\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj",
+        "projectUniqueName": "C:\\Users\\kubap\\OneDrive\\Pulpit\\Adoptooj\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj",
         "projectName": "Adoptooj_backend",
-        "projectPath": "C:\\Users\\Jakub\\Desktop\\TinderDlaPsow\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj",
-        "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jakub\\Desktop\\TinderDlaPsow\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\obj\\",
+        "projectPath": "C:\\Users\\kubap\\OneDrive\\Pulpit\\Adoptooj\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\Adoptooj_backend.csproj",
+        "packagesPath": "C:\\Users\\kubap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kubap\\OneDrive\\Pulpit\\Adoptooj\\dogder_backend\\Adoptooj_backend\\Adoptooj_backend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visualstudio\\Microsoft Visual Studio\\shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Jakub\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kubap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

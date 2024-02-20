@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Adoptooj_backend.props" />
+</Project>

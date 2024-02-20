@@ -1,7 +1,14 @@
+using Adoptooj_backend.Data;
+using Adoptooj_backend.Data.Tables;
+using Microsoft.EntityFrameworkCore;
+using Npgsql;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("WebApiDatabase")));
 
 var app = builder.Build();
 
@@ -23,3 +30,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
